@@ -1,0 +1,44 @@
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway", sans-serif ;
+    color: black;
+ }
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: 100% 130%;
+  background-image: url("ACM_logo.png");
+  min-height: 100%;
+ 
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+  color: black;
+}
+ul {
+    list-style-type: none;
+
+}
+
+.membership{
+    padding:128px 16px;
+    background-color: rgb(206, 206, 206);
+}
+
+.w3-top{
+    background-color: #01cbd9;
+
+}
+
+
+
+
